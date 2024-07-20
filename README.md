@@ -48,9 +48,7 @@
  
 <p>
  <!-- <img align="right" width="350" src="https://raw.githubusercontent.com/AHuss13/AHuss13/main/assets/nate-cartoon-profile.webp" alt="Coding profile pic" /> -->
-  
- ✌️ &emsp; Enjoy software engineering and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+
  📧 &emsp; Reach me anytime: Adam.David.Huss@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/AHuss13/AHuss13/issues)
 
