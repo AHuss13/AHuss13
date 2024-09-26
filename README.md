@@ -27,7 +27,7 @@
   <samp>
     <a href="https://www.google.com/search?q=AHuss13">「 Google Me 」</a>
     <br>
-    「 I am a Web Developer from <b>USA</b> 」
+    「 I am a Web Developer from the <b>USA</b> 」
     <br>
     <br>
   </samp>
